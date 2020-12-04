@@ -1,4 +1,7 @@
+body {
+  font-size: 18px;
+}
 img {
   size: 40px;
-  float: left;
+  float: unset;
 }
