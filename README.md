@@ -6,9 +6,9 @@
 ## Setup/Installation Requirements
 * Run the URL on your browser
 ## Known Bugs
-
+* None so far.
 ## Technologies Used
-
+* HTML, CSS
 ## Support and contact details
 
 ### License
